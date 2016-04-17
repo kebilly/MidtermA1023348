@@ -35,7 +35,7 @@
 	display: block;
 	left: 180px;
 	top:15px;
-	background:url(D:\GitHub\MidtermA1023348\images\logo.png);
+	background:url(images\logo.png);
 	margin-top:10px; 
 }
 
@@ -92,7 +92,7 @@
 	float: left;
 	width: 640px;
     height: 415px;
-	background:url(D:\GitHub\MidtermA1023348\images\slider-1.png);
+	background:url(images\slider-1.png);
 }
 h2{
 	font-size:50px;
@@ -259,7 +259,7 @@ h4{
 	font-weight: bold;
 }
 .custom-image li{
-    background-image:url(D:\GitHub\MidtermA1023348\images\dot_blue.gif);
+    background-image:url(images\dot_blue.gif);
     background-position:left 8px;
     background-repeat:no-repeat;    
     list-style-type:none;
